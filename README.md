@@ -5,7 +5,7 @@ This was a group project divided into four parts:
 •	Dividing workload to meet deadlines. 
 •	Designing modular software that allows for that division of work.
 
-**My Part (**Name:** Wilker Fernandes de Sousa **Github:** fern0097): **
+My Part (**Name:** Wilker Fernandes de Sousa **Github:** fern0097)
 **Covid-19 case data**
 
 •	The user can type in a Country to query, along with a date to query. The server will return the number of cases by province/state, which should be put in a list. The user can save the country’s results by date to the database for later viewing.
