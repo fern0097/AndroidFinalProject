@@ -1,4 +1,7 @@
 # AndroidFinalProject
+
+**REQUIREMENT:** Android Studio IDE
+
 This was a group project divided into four parts: 
 
 •	Developing software in a group environment, including using Github to merge code into 1 project. 
