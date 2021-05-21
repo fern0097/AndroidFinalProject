@@ -5,7 +5,9 @@
 This was a group project divided into four parts: 
 
 •	Developing software in a group environment, including using Github to merge code into 1 project. 
-•	Dividing workload to meet deadlines. 
+
+•	Dividing workload to meet deadlines.
+
 •	Designing modular software that allows for that division of work.
 
 My Part (**Name:** Wilker Fernandes de Sousa **Github:** fern0097)
